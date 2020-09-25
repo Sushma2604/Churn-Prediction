@@ -1,11 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Fri Nov 24 17:26:10 2017
 
-@authors: Adithya Ganapathy(axg172330)
-          Sri Hari Murali(sxm179330)
-          Nisshantni Divakaran(nxd171330)
-"""
 
 import gc; gc.enable()
 import sys
